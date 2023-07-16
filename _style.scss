@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    outline: 1px solid orange;
+}
+
+img{
+    vertical-align: middle;
+}
+
+
+.container{
+    max-width: 640px;
+    margin: auto;
+}
+
+.d-f{
+    display: flex;
+}
+
+.mr-20{
+    margin-right: 20px;
+}
+
+.ml-20{
+    margin-left: 20px;
+}
+
+.mb-24{
+    margin-bottom: 24px;
+}
+
+.lh-s{
+    line-height: 1.2;
+}
+
+.lh-m{
+    line-height: 1.5;
+}
+
+.w-288{
+    width: 288px;
+}
+
+//font-size
+.fz-20{
+    font-size: 20px;
+}
+
+.fz-16{
+    font-size: 16px;
+}
+
+.footer-container{
+    height: 120px;
+}
